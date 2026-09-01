@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 40px;
+}
+
+label {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 220px;
+}
+
+select {
+    padding: 10px;
+    margin: 5px;
+    width: 245px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#RESULTADO {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#historial {
+    list-style-position: inside;
+    padding: 0;
+}
+
+#historial li {
+    margin: 8px;
+}
