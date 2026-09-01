@@ -1,4 +1,3 @@
-
 let historial = [];
 
 $("#accion").click(() => {
@@ -75,4 +74,3 @@ $("#accion").click(() => {
     console.log("Historial:", historial);
 
 });
-
